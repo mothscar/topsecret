@@ -244,7 +244,7 @@
                 noPlayer: !0,
                 public: !0
             }), {
-                token: "thr1.AAAAAGcr6sSwHzZ930Mvpg.wRghrvcvV0o"
+                token: "thr1.AAAAAGcr66S0Za6VfzGWcg.jfOvnK1kNWI"
             }));
         console.log("created", i), new l(i)
     })()
